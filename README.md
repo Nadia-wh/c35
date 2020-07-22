@@ -1,2 +1,2 @@
-# c35
-structuring the code
+# synchronousBallMovement
+Ball moving synchronously
